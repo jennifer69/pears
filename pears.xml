@@ -14,7 +14,7 @@
         </value>
         <next>
           <block type="oled_drawtext" id="62">
-            <field name="TEXT">#flawless</field>
+            <field name="TEXT">im going to ruin everything u love</field>
           </block>
         </next>
       </block>
